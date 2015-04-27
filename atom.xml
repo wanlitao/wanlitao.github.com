@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[wanlitao的博客]]></title>
+  <subtitle><![CDATA[追求卓越, 朝着梦想全力以赴]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-04-27T06:22:25.896Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[wanlitao]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2015/04/26/hello-world/"/>
+    <id>http://yoursite.com/2015/04/26/hello-world/</id>
+    <published>2015-04-26T09:49:59.000Z</published>
+    <updated>2015-04-27T06:22:25.896Z</updated>
+    <content type="html"><![CDATA[<p>趁着离职赋闲在家的这段时间，在各路前辈无私分享的帮助下，折腾了近两天时间，终于把个人博客给搭建起来了。</p>
+<p>总结下搭建的过程，虽然教程很详细，但因为第一次接触node.js、git、hexo, 以前对个人域名只有模糊的概念，中间也是踩了不少坑。虽然是奋战在一线的程序员一枚，但过往被微软万分宠爱，沉浸在GUI的美妙中无法自拔，回到命令行的世界突然有种如梦初醒的感觉，这才是程序员的工作方式。</p>
+<p>说起博客，一直都是无感。不可否认自己是个慢热的人，生活上也比较懒惰。最早的QQ空间、新浪博客等都是空无一字，后来在一些网友的怂恿和诱惑下，在百度空间上写了几篇文章。记得当时热情还是蛮高的，但渐渐地因一些客观原因，加上参加工作后事情多了起来，也就束之高阁了。至于后面诞生的新浪微博，算是给了自己一个台阶。</p>
+<p>但近几年在工作中发现许多IT同行会以博客的方式作一些技术分享，最出名的就是CSDN和博客园了，经常不懂的技术难题都能在上面找到详细的解决方案，渐渐的又燃起了写博客的激情，同时也对写博客的意义有了更深层次的理解。</p>
+<p>也许是到了改变的时候了，愿在这个相对独立的空间里，记录自己逐步成长的脚印。百年之后，迟暮之时，回看之前的种种，能说一句<strong>无怨无悔</strong>！</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>趁着离职赋闲在家的这段时间，在各路前辈无私分享的帮助下，折腾了近两天时间，终于把个人博客给搭建起来了。</p>
+<p>总结下搭建的过程，虽然教程很详细，但因为第一次接触node.js、git、hexo, 以前对个人域名只有模糊的概念，中间也是踩了不少坑。虽然是奋战在一线的程]]>
+    </summary>
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="杂谈" scheme="http://yoursite.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+</feed>
