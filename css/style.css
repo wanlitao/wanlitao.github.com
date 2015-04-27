@@ -1033,7 +1033,7 @@ a {
   max-width: 100%;
 }
 .article-entry strong {
-  font-weight: 300;
+  font-weight: bold;
 }
 .article-entry .caption {
   display: block;
